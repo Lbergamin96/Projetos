@@ -61,6 +61,8 @@ eletrônico**.
    `DATA_DIR` no topo se precisar).
 2. Abra `Projeto_Final_Churn_Interconnect.ipynb` no Jupyter e execute as células em ordem.
 
+"Obs.: os arquivos de dados não estão incluídos neste repositório. O notebook já contém todos os resultados e gráficos executados, então pode ser visualizado diretamente no GitHub."
+
 **Bibliotecas:** pandas, numpy, matplotlib, seaborn, scikit-learn e lightgbm. O notebook foi
 escrito para rodar tanto em versões recentes do scikit-learn quanto na 0.24.
 
